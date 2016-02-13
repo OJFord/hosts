@@ -1,3 +1,8 @@
+This fork
+=========
+  - Newer release to facilitate `brew install OJFord/formulae/adblock-hosts`
+  - Data-less for a lighter weight download: update performed on install anyway
+
 #Amalgamated hosts file
 
 This repo consolidates several reputable `hosts` files and merges them into a single
